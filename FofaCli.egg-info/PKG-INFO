@@ -1,3 +1,23 @@
+Metadata-Version: 2.1
+Name: FofaCli
+Version: 0.0.4
+Summary: Command-line interaction tools for fofa.info
+Home-page: https://fofa.info
+Author: 0x4d0
+Author-email: bello.abcx@gmail.com
+License: MIT Licence
+Classifier: Development Status :: 7 - Inactive
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 ### 说明介绍
 工具基于fofa.info的Api接口编写的一个交互工具，[API](https://fofa.info/api) 细节见官方.
 

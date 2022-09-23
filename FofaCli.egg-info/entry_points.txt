@@ -1,0 +1,2 @@
+[console_scripts]
+fofaCli = fofa.__main__:main
