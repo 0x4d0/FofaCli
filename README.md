@@ -99,5 +99,34 @@ cli search(fofa.info/api) > ?
   info                                 用户信息细节.
 ```
 
+### Search 功能
+[![1.png](https://i.postimg.cc/fWH7HVww/1.png)](https://postimg.cc/Lh1Z56Y7)
+
+#### 指定显示的列
+
+[![2.png](https://i.postimg.cc/Bn8G8Pvt/2.png)](https://postimg.cc/Mn8LNTV8)
+
+#### 查看某些数据细节（多数据对比）
+
+[![3.png](https://i.postimg.cc/MKLrcsNJ/3.png)](https://postimg.cc/BXxCkCJm)
+
+### Stats 功能
+支持基于search搜索的语法聚合相关数据，以及基于搜索语法搜索数据聚合
+[![4.png](https://i.postimg.cc/fLjbH21V/4.png)](https://postimg.cc/PpJhJ4XH)
+
+### Host 功能
+支持基于search搜索的语法聚合主机相关端口数据，以及基于搜索语法搜索数据聚合
+[![5.png](https://i.postimg.cc/s2JL25hk/5.png)](https://postimg.cc/VSdgGr4g)
+
+
+### Search 高级用法
+搜索基于搜索出来的某个id的值搜索
+[![6.png](https://i.postimg.cc/J4VYLTyT/6.png)](https://postimg.cc/4nPQvQQt)
+
+复杂的请求结构参考
+[![7.png](https://i.postimg.cc/pXmWwLFQ/7.png)](https://postimg.cc/qzdHn0Qg)
+
+支持搜索语法细节
+[![8.png](https://i.postimg.cc/3xbbP32G/8.png)](https://postimg.cc/TKg9bM72)
 ### 结尾
 程序写的比较匆忙,写的很粗糙，写这个工具主要也是为了快速交互查询一些数据.初衷是为了自动化验证一些POC过程,POC集成自动化和其他脚本框架耦合写的一个快速交互.
