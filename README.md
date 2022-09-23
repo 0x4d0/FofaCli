@@ -121,12 +121,15 @@ cli search(fofa.info/api) > ?
 
 ### Search 高级用法
 搜索基于搜索出来的某个id的值搜索
+
 [![6.png](https://i.postimg.cc/J4VYLTyT/6.png)](https://postimg.cc/4nPQvQQt)
 
 复杂的请求结构参考
+
 [![7.png](https://i.postimg.cc/pXmWwLFQ/7.png)](https://postimg.cc/qzdHn0Qg)
 
 支持搜索语法细节
+
 [![8.png](https://i.postimg.cc/3xbbP32G/8.png)](https://postimg.cc/TKg9bM72)
 ### 结尾
 程序写的比较匆忙,写的很粗糙，写这个工具主要也是为了快速交互查询一些数据.初衷是为了自动化验证一些POC过程,POC集成自动化和其他脚本框架耦合写的一个快速交互.
